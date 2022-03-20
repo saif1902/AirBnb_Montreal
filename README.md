@@ -1,1 +1,2 @@
 # AirBnb_Montreal
+In this project, I utilized publicly open dataset from [Inside AirBnb](http://insideairbnb.com/), mapped the results using visualization tools, and derived insights on AirBnb listings in Montreal. I explored and visualized the dataset using exploratory data analysis (EDA) techniques to determine the distribution of every Airbnb listings in Montreal based on their location, which includes the price range, type of room, and listing name etc.
